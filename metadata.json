@@ -1,0 +1,6 @@
+{
+  "name": "花蓮縣國中英數學力精進深度分析與互動儀表板",
+  "description": "針對花蓮縣國中教育會考英數學力成果、13所重點學校數據、學習扶助銜接、師資結構與預警指標進行深度分析與可視化互動儀表板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
